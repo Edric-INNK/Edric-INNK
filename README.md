@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edric-INNK, known virtually as INNK and Edric in RL
 - 👀 I’m interested in web development & game development
-- 🌱 I’m currently learning GDScript, Java, Web(HTML, CSS, JS)
+- 🌱 I’m currently learning Java, Web(HTML, CSS, JS)
 - 💞️ I’m looking to collaborate on nothing, at the moment
 - 📫 How to reach me illy.chas on Discord
 - 😄 Pronouns: He/him
