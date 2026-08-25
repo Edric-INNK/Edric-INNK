@@ -39,12 +39,10 @@ A college student majoring in Data Science looking to expand knowledge and creat
 
 | Project | Description | Tech |
 |---|---|---|
-| 🤟 [**Bisindo Project**](https://github.com/Davino-Edric/Bisindo-Project) | Indonesian Sign Language recognition system | Python · ML / CV |
-| 🤖 [**AI Projects**](https://github.com/Davino-Edric/AI-Projects) | Sentiment Analysis (NLP), Time Series forecasting, and more | Python · PyTorch · TensorFlow |
-| 📊 [**Data Analytics Projects**](https://github.com/Davino-Edric/Data-Analytics-Projects) | Data exploration and analytics projects | Python · Jupyter · Pandas |
-| 🌐 [**Vue + Laravel App**](https://github.com/Davino-Edric/vuevue) | Full-stack web application | Vue.js · TypeScript · Laravel · PostgreSQL |
-| 🎓 [**UBIG AI Bootcamp**](https://github.com/Davino-Edric/UBIG-Bootcamp) | 1-month intensive AI bootcamp documentation (2024) | Python · Jupyter |
-| ☕ [**Kafe Geblak**](https://github.com/Davino-Edric/kafe_geblak) | Project-Based Learning (PJBL) cafe management app | Web |
+| [**Bisindo Project**](https://github.com/Davino-Edric/bisindo-space) | Indonesian Sign Language recognition system | Python · ML / CV |
+| [**Pertalite Sentiment Analysis (Deployed Repository)**](https://github.com/Davino-Edric/pertalite-sentiment-space) | Sentiment analysis on sociel media regarding controversial government policies | Python · ML / Sentiment Analysis |
+| [**Prototype Study Hub 01**](https://github.com/Davino-Edric/PSH-01) | A prototype RAG that's suited to local devices and uses local LLM providers | Python · Qdrant · Docker · Ollama · Streamlit |
+| [**Kafe Geblak**](https://github.com/Davino-Edric/kafe_geblak) | Project-Based Learning (PJBL) cafe management app | Web |
 
 ---
 
